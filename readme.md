@@ -1,10 +1,3 @@
-# [GitHub Stats Visualization](https://github.com/araujoleonardo310/Programacao_C-exercicios-atividades)
-
-<a href="https://github.com/araujoleonardo310/Programacao_C-exercicios-atividades">
-   
-![](https://github.com/araujoleonardo310/Programacao_C-exercicios-atividades/blob/master/generated/overview.svg)
-![](https://github.com/araujoleonardo/Programacao_C-exercicios-atividades/blob/master/generated/languages.svg)
-
 <h1 align="center">⚠️🚧 Projeto: Aprendendo linguagem C 🚀</h1> 
 
 <h3 align="left">:dart: :mag_right: Linguagem C </h3>
