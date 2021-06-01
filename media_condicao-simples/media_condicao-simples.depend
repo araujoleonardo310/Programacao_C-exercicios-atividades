@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622341800 source:c:\users\computador\desktop\workspace\aprendendo_c\media_condicao-simples\main.c
+	<stdio.h>
+	<stdlib.h>
+
