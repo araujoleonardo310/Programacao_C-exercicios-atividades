@@ -32,6 +32,18 @@
 * Função main()
 * Declaração de variáveis 
 * Funções de entrada e saída de dados (printf e scanf)
+* Tipos Básicos (int, float, char, etc.)
+
+### Diário de aprendizado
+
+**Dia 03-06-2021**
+>Conheci o ambiente Code::Blocks, aprendi as formas de comentar na área, realizei criação de um primeiro comando com uma saída de mensagem de boas-vindas.
+>Resolvi padronizar meus exercícos realizados na linguagem C, com uma introdução identificando autor, data e objetivo do projeto.
+>Conheci os tipos de dados e os valores de armazenamento.
+
+![Ambiente Code::Blocks](src/assets/to_readme/diario/ambiente-codeBlocks)
+![Introdução](src/assets/to_readme/diario/introducao_part01)
+![Intrdução parte 02](src/assets/to_readme/diario/introducao_part02)
 
 ## :link: Artigos/Redações/Livros 
 
