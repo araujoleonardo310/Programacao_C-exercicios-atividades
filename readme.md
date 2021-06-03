@@ -41,10 +41,10 @@
 >Resolvi padronizar meus exercícos realizados na linguagem C, com uma introdução identificando autor, data e objetivo do projeto.
 >Conheci os tipos de dados e os valores de armazenamento.
 
-![Ambiente Code::Blocks](src/assets/to_readme/diario/ambiente-codeBlocks)
-![Introdução](src/assets/to_readme/diario/introducao_part01)
-![Intrdução parte 02](src/assets/to_readme/diario/introducao_part02)
+![Ambiente Code::Blocks](src/assets/to_readme/diario/ambiente-codeBlocks.jpg)
+![Introdução](src/assets/to_readme/diario/introducao_part01.jpg)
+![Intrdução parte 02](src/assets/to_readme/diario/introducao_part02.jpg)
 
 ## :link: Artigos/Redações/Livros 
 
-![A importância e as vantagens de saber programar em linguagem C - Waldemar Celes](https://computerworld.com.br/plataformas/importancia-e-vantagens-de-saber-programar-em-linguagem-c/#:~:text=A%20linguagem%20C%20nos%20permite,de%20programa%C3%A7%C3%A3o%20de%20computadores%C2%B2%20%C2%B3)
+[A importância e as vantagens de saber programar em linguagem C - Waldemar Celes](https://computerworld.com.br/plataformas/importancia-e-vantagens-de-saber-programar-em-linguagem-c/#:~:text=A%20linguagem%20C%20nos%20permite,de%20programa%C3%A7%C3%A3o%20de%20computadores%C2%B2%20%C2%B3)
