@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623454233 source:c:\users\computador\desktop\desktop github\programacao_c-exercicios-atividades\aulas\declaracaovariaveis\main.c
+	<stdio.h>
+	<stdlib.h>
+
