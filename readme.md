@@ -21,7 +21,7 @@
 
 ## :diamond_shape_with_a_dot_inside: Curso(s)
 
-![Programação em Linguagem C](http://www.bosontreinamentos.com.br/category/programacao-em-linguagem-c/)
+[Programação em Linguagem C](http://www.bosontreinamentos.com.br/category/programacao-em-linguagem-c/)
 
 ### Grade
 
