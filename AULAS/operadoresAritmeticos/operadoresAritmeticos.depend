@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623633098 source:c:\users\computador\desktop\desktop github\programacao_c-exercicios-atividades\aulas\operadoresaritmeticos\main.c
+	<stdio.h>
+	<stdlib.h>
+

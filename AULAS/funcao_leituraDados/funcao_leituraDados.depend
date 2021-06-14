@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623630754 source:c:\users\computador\desktop\desktop github\programacao_c-exercicios-atividades\aulas\funcao_leituradados\main.c
+	<stdio.h>
+	<stdlib.h>
+
